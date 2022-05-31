@@ -1,0 +1,32 @@
+{
+  "name": "Hippo #7",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4506"
+    },
+    {
+      "trait_type": "basic eyes",
+      "value": "Default eye"
+    },
+    {
+      "trait_type": "base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "mouth props",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Goggles Beanie Grey"
+    },
+    {
+      "trait_type": "black eyewear",
+      "value": "Future visor"
+    }
+  ]
+}

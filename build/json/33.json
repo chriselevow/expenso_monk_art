@@ -1,0 +1,28 @@
+{
+  "name": "Hippo #33",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/33.png",
+  "edition": 33,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4539"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "base",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "hoodie",
+      "value": "Hooded Jacket"
+    },
+    {
+      "trait_type": "mouth props",
+      "value": "Gold spoon"
+    }
+  ]
+}

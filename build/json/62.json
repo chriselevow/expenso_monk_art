@@ -1,0 +1,32 @@
+{
+  "name": "Hippo #62",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/62.png",
+  "edition": 62,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4508"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "base",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "neckwear",
+      "value": "Noise Canceling Headphones"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "Empty"
+    }
+  ]
+}

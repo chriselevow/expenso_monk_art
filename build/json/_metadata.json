@@ -1,0 +1,3942 @@
+[
+  {
+    "name": "Hippo #53",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/53.png",
+    "edition": 53,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Letterman Jacket Tee White"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Military Helm"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #82",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/82.png",
+    "edition": 82,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Neon Blue"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #38",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/38.png",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Blue Tee Black"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Retro Flip Up"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #2",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/2.png",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4513"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Jacket Tiger"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #15",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/15.png",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Grey"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #61",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/61.png",
+    "edition": 61,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Letterman Jacket Tee White"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Cap White"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #58",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/58.png",
+    "edition": 58,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Letterman Jacket Tee White"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Mario"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #41",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/41.png",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "High"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Cap White"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #109",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/109.png",
+    "edition": 109,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Jacket Mixed"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Mario"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #114",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/114.png",
+    "edition": 114,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Tan"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Aussie Hat"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #76",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/76.png",
+    "edition": 76,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple and Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Black Tee Black"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #56",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/56.png",
+    "edition": 56,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Fur Brown"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #63",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/63.png",
+    "edition": 63,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie neon green + gold"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #11",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/11.png",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Tee White"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #43",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/43.png",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4513"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 2"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Diamond Stud"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #74",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/74.png",
+    "edition": 74,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown Hood Grey"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "White Beanie"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #40",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/40.png",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Tee Cosmo"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #66",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/66.png",
+    "edition": 66,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Blue"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Grey"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #79",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/79.png",
+    "edition": 79,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Short Sleeve Cloud"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Military Helm"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #44",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/44.png",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4507"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Blue"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #1",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4507"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #104",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/104.png",
+    "edition": 104,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4507"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Tan"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #5",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/5.png",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 2"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #31",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/31.png",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Blue Tee Black"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #3",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/3.png",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #32",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/32.png",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 4"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Goggles Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #12",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/12.png",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Jacket Mixed"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #22",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/22.png",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "One Robotic"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Short Sleeve Cloud"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Goggles Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #68",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/68.png",
+    "edition": 68,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel and Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Black + Bitcoin"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Goggles Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #80",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/80.png",
+    "edition": 80,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 5"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #26",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/26.png",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4544"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #83",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/83.png",
+    "edition": 83,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #85",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/85.png",
+    "edition": 85,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Ethereum Pendant"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #96",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/96.png",
+    "edition": 96,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Bitcoin Pendant"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #36",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/36.png",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #54",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/54.png",
+    "edition": 54,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Readers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #39",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/39.png",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Future Headphones"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #87",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/87.png",
+    "edition": 87,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #10",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/10.png",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Readers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #107",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/107.png",
+    "edition": 107,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "HH Pendant"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #8",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/8.png",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #6",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/6.png",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Construction"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #77",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/77.png",
+    "edition": 77,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #34",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/34.png",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4507"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #115",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/115.png",
+    "edition": 115,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Mario"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #16",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/16.png",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #105",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/105.png",
+    "edition": 105,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #65",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/65.png",
+    "edition": 65,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4532"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #69",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/69.png",
+    "edition": 69,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #49",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/49.png",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Bitcoin Pendant"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #19",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/19.png",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #103",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/103.png",
+    "edition": 103,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel and Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #99",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/99.png",
+    "edition": 99,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4511"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Noise Canceling Headphones"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #42",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/42.png",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel and Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #102",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/102.png",
+    "edition": 102,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #106",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/106.png",
+    "edition": 106,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel and Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "hoodie",
+        "value": "Hooded Jacket"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "pipe"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #17",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/17.png",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "hoodie",
+        "value": "Hooded Jacket"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #72",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/72.png",
+    "edition": 72,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "hoodie",
+        "value": "Hooded Jacket"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #33",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/33.png",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "hoodie",
+        "value": "Hooded Jacket"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Gold spoon"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #50",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/50.png",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "hoodie",
+        "value": "Hooded Jacket"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #89",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/89.png",
+    "edition": 89,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #4",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/4.png",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Cross Eyed"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #35",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/35.png",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #78",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/78.png",
+    "edition": 78,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #20",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/20.png",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Aussie Hat"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #14",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/14.png",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #13",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/13.png",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #7",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/7.png",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Grey"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #75",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/75.png",
+    "edition": 75,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #37",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/37.png",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Military Helm"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #29",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/29.png",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Pizza"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Goggles Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #47",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/47.png",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #59",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/59.png",
+    "edition": 59,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #98",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/98.png",
+    "edition": 98,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Cross Eyed"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Goggles Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #23",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/23.png",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel and Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "mouth props",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Fighter"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #30",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/30.png",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Jail Stripes"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Aussie Hat"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #110",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/110.png",
+    "edition": 110,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple and Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Tech White Hood"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Cap Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #88",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/88.png",
+    "edition": 88,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Tech"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #94",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/94.png",
+    "edition": 94,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Grey"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Readers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #9",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/9.png",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Green"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #92",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/92.png",
+    "edition": 92,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4511"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 4"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #90",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/90.png",
+    "edition": 90,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4507"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "High"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown Tee Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #70",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/70.png",
+    "edition": 70,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4531"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Tan"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #24",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/24.png",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Black"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #52",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/52.png",
+    "edition": 52,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4478"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple and Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Letterman Jacket Tee White"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #113",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/113.png",
+    "edition": 113,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Tee Black + HH"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Cap White"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #97",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/97.png",
+    "edition": 97,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4544"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown Tee Black"
+      },
+      {
+        "trait_type": "hats",
+        "value": "White Beanie"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #95",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/95.png",
+    "edition": 95,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 1"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #18",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/18.png",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Tee White"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "16 bit"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #81",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/81.png",
+    "edition": 81,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4531"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Black"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Miner"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #57",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/57.png",
+    "edition": 57,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4544"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Tee White"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #55",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/55.png",
+    "edition": 55,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Black Tee Black"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #100",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/100.png",
+    "edition": 100,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Brown Hood Grey"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Silver"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #86",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/86.png",
+    "edition": 86,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4544"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Black"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #112",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/112.png",
+    "edition": 112,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 4"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #27",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/27.png",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Neon Green"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Fighter"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #51",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/51.png",
+    "edition": 51,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4538"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Hoodie Black"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #73",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/73.png",
+    "edition": 73,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Coat Black Tee Black"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Fighter"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #91",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/91.png",
+    "edition": 91,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #71",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/71.png",
+    "edition": 71,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "Vacation 3"
+      },
+      {
+        "trait_type": "helms",
+        "value": "Miner Helm"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #62",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/62.png",
+    "edition": 62,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Noise Canceling Headphones"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Construction"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #84",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/84.png",
+    "edition": 84,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4542"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Future Headphones"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Grey"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #45",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/45.png",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4541"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "White Beanie"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #93",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/93.png",
+    "edition": 93,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4539"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Grey"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Future"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #21",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/21.png",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple and Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Grey"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #108",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/108.png",
+    "edition": 108,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4535"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Top Gun"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Diamond Stud"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #48",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/48.png",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4510"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Diamond Stud"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #111",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/111.png",
+    "edition": 111,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4544"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #101",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/101.png",
+    "edition": 101,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4543"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple and Green"
+      },
+      {
+        "trait_type": "base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Future Headphones"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Ring Black"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #67",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/67.png",
+    "edition": 67,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4508"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "rings",
+        "value": "Earring Black"
+      },
+      {
+        "trait_type": "nose rings",
+        "value": "Nose Hook"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #60",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/60.png",
+    "edition": 60,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4511"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Cardano Pendant"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "World Savers"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #25",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/25.png",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4512"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Goggles Beanie Black"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #28",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/28.png",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4509"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "16 bit"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #64",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/64.png",
+    "edition": 64,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4506"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Green"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Farm Cap"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Retro Red"
+      }
+    ]
+  },
+  {
+    "name": "Hippo #46",
+    "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+    "image": "/assets/46.png",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Rectangle 4540"
+      },
+      {
+        "trait_type": "basic eyes",
+        "value": "Default eye"
+      },
+      {
+        "trait_type": "base",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "neckwear",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "black eyewear",
+        "value": "Future visor"
+      }
+    ]
+  }
+]

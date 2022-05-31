@@ -1,0 +1,32 @@
+{
+  "name": "Hippo #110",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/110.png",
+  "edition": 110,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4478"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Purple and Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Coat Tech White Hood"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Cap Black"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "Future"
+    }
+  ]
+}

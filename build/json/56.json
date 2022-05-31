@@ -1,0 +1,40 @@
+{
+  "name": "Hippo #56",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/56.png",
+  "edition": 56,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4478"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "base",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Fur Brown"
+    },
+    {
+      "trait_type": "mouth props",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "Top Gun"
+    },
+    {
+      "trait_type": "rings",
+      "value": "Earring Silver"
+    },
+    {
+      "trait_type": "nose rings",
+      "value": "Nose Hook"
+    }
+  ]
+}

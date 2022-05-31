@@ -1,0 +1,36 @@
+{
+  "name": "Hippo #57",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/57.png",
+  "edition": 57,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4544"
+    },
+    {
+      "trait_type": "basic eyes",
+      "value": "Default eye"
+    },
+    {
+      "trait_type": "base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Tee White"
+    },
+    {
+      "trait_type": "black eyewear",
+      "value": "Future visor"
+    },
+    {
+      "trait_type": "rings",
+      "value": "Earring Black"
+    },
+    {
+      "trait_type": "nose rings",
+      "value": "Nose Hook"
+    }
+  ]
+}

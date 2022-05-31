@@ -1,0 +1,28 @@
+{
+  "name": "Hippo #73",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/73.png",
+  "edition": 73,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4506"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Coat Black Tee Black"
+    },
+    {
+      "trait_type": "helms",
+      "value": "Fighter"
+    }
+  ]
+}

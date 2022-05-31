@@ -1,0 +1,32 @@
+{
+  "name": "Hippo #93",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/93.png",
+  "edition": 93,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4539"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "neckwear",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Goggles Beanie Grey"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "Future"
+    }
+  ]
+}

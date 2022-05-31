@@ -1,0 +1,36 @@
+{
+  "name": "Hippo #53",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/53.png",
+  "edition": 53,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4541"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Letterman Jacket Tee White"
+    },
+    {
+      "trait_type": "mouth props",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Military Helm"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "Empty"
+    }
+  ]
+}

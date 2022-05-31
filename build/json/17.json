@@ -1,0 +1,28 @@
+{
+  "name": "Hippo #17",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/17.png",
+  "edition": 17,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4540"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "hoodie",
+      "value": "Hooded Jacket"
+    },
+    {
+      "trait_type": "mouth props",
+      "value": "Cigar"
+    }
+  ]
+}

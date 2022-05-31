@@ -1,0 +1,28 @@
+{
+  "name": "Hippo #51",
+  "description": "A gang of Hangry Hippos wading under the water ready to bite!",
+  "image": "/assets/51.png",
+  "edition": 51,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Rectangle 4538"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Hoodie Black"
+    },
+    {
+      "trait_type": "helms",
+      "value": "Miner Helm"
+    }
+  ]
+}
